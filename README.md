@@ -11,11 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Alef.Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefmastertutor@gmail.com)](mailto:alefmastertutor@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-dino.coder-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alef.all)](https://www.instagram.com/alef.all)
 
-[![Linkedin Badge](https://img.shields.io/badge/-WevertonOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/werverton-oliveira-913967218/)
-[![Gmail Badge](https://img.shields.io/badge/-Alef.Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefmastertutor@gmail.com)](mailto:alefmastertutor@gmail.com)
-[![Instagram Tom Badge](https://img.shields.io/badge/-tom-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tomzinhu1/)](https://www.instagram.com/tomzinhu1/)
-![](https://visitor-badge.glitch.me/badge?page_id=tomoliveira1.tomoliveira1)
-
 ---
 
 💻 I'm currently working on Front End<br>
