@@ -2,7 +2,7 @@
  <!-- <img width="100%" src="![image](https://user-images.githubusercontent.com/85240595/127880736-21efeb3f-84d4-41ff-8470-d45fd0fada17.png)" /> -->
 </p>
 
-### Hi I'm Tom! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px">
+### Hi I'm Tom! <img src="![image](https://user-images.githubusercontent.com/85240595/127880851-1d3dfb89-fe32-46eb-b9fc-1a151ae3fdce.png)" width="30px">
 
 💻 Front-End Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Belo Horizonte 🌎 Brazil
 
