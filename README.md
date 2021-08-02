@@ -37,6 +37,5 @@ Learning everyday, and growing everyday.
 
 <br/>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoliveira1)](https://github.com/tomoliveira1/github-readme-stats)
 <br/>
 </samp>
