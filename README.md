@@ -7,7 +7,7 @@
 💻 Front-End Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Belo Horizonte 🌎 Brazil
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tom.Olveira.facode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/werverton-oliveira-913967218/)](https://www.linkedin.com/in/werverton-oliveira-913967218/)
+[![Linkedin Badge](https://img.shields.io/badge/-TomOliveira.facode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/werverton-oliveira-913967218/)](https://www.linkedin.com/in/werverton-oliveira-913967218/)
 [![Gmail Badge](https://img.shields.io/badge/-Weverton.Oliveira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weverton.oliveira@facode.com.br)](mailto:weverton.oliveira@facode.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-tom.oliveira-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tomzinhu1)](https://www.instagram.com/tomzinhu1)
 [![Instagram Badge](https://img.shields.io/badge/-tom.oliveira.design-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tomoliveiradesign)](https://www.instagram.com/tomoliveiradesign)
