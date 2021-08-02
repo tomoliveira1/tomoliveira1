@@ -15,9 +15,9 @@
 ---
 
 💻 I'm currently working on Front End<br>
-:
 🎨 I´m also a Graphic Designer<br>
 🎵 I love music and I play a lot of struments
+📺 Love TV shows, let´s talk about it!
 
 **Languages and Tools:**  
 
@@ -35,9 +35,6 @@
 Learning everyday, and growing everyday.
 
 <br/>
-<br/>
-
-**My Contributions ⚡**
 <br/>
 
 <br/>
