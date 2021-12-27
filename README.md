@@ -4,7 +4,7 @@
 
 ### Olá, me chamo Weverton Oliveira! <img src="https://data.whicdn.com/images/242557345/original.gif" width="30px">
 
-<div>######💻 Front-End Developer 🌎 Belo Horizonte, Brazil</div>
+<div>###### 💻 Front-End Developer 🌎 Belo Horizonte, Brazil</div>
 <br/>
 
 <div align="center">
