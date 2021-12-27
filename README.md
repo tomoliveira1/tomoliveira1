@@ -2,16 +2,19 @@
  <!-- <img width="100%" src="![image](https://user-images.githubusercontent.com/85240595/127880736-21efeb3f-84d4-41ff-8470-d45fd0fada17.png)" /> -->
 </p>
 
-### Yoo, I'm Tom! <img src="https://data.whicdn.com/images/242557345/original.gif" width="30px">
+### Olá, me chamo Weverton Oliveira! <img src="https://data.whicdn.com/images/242557345/original.gif" width="30px">
 
-💻 Front-End Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Belo Horizonte 🌎 Brazil
+💻 Front-End Developer 🌎 Belo Horizonte, Brazil
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-TomOliveira.facode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/werverton-oliveira-913967218/)](https://www.linkedin.com/in/werverton-oliveira-913967218/)
 [![Gmail Badge](https://img.shields.io/badge/-Weverton.Oliveira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weverton.oliveira@facode.com.br)](mailto:weverton.oliveira@facode.com.br)
-[![Instagram Badge](https://img.shields.io/badge/-tom.oliveira-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tomzinhu1)](https://www.instagram.com/tomzinhu1)
-[![Instagram Badge](https://img.shields.io/badge/-tom.oliveira.design-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tomoliveiradesign)](https://www.instagram.com/tomoliveiradesign)
-![](https://visitor-badge.glitch.me/badge?page_id=tomoliveira1.tomoliveira1)
 
 ---
 
