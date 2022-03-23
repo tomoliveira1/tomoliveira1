@@ -3,6 +3,7 @@
 </p>
 
 ### Olá, me chamo Weverton Oliveira! <img src="https://data.whicdn.com/images/242557345/original.gif" width="30px">
+#### Hey you, I'm Weverton Oliveira! <img src="https://thumbs.gfycat.com/RespectfulHonestAxolotl-max-1mb.gif" width="25px">
 
 ###### 💻 Front-End Developer 🌎 Belo Horizonte, Brazil
 <br/>
