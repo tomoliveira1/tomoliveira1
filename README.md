@@ -2,8 +2,8 @@
  <!-- <img width="100%" src="![image](https://user-images.githubusercontent.com/85240595/127880736-21efeb3f-84d4-41ff-8470-d45fd0fada17.png)" /> -->
 </p>
 
-### Olá, me chamo Weverton Oliveira! <img src="https://data.whicdn.com/images/242557345/original.gif" width="30px">
-#### Hey you, I'm Weverton Oliveira! <img src="https://thumbs.gfycat.com/RespectfulHonestAxolotl-max-1mb.gif" width="25px">
+### Olá, me chamo Weverton Oliveira!
+#### Hey you, I'm Weverton Oliveira!
 
 ###### 💻 Front-End Developer 🌎 Belo Horizonte, Brazil
 <br/>
