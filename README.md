@@ -4,6 +4,7 @@
 
 ### Olá, me chamo Weverton Oliveira!
 #### Hey you, I'm Weverton Oliveira!
+#### Currently working on mobile front-end development
 
 ###### 💻 Front-End Developer 🌎 Belo Horizonte, Brazil
 <br/>
